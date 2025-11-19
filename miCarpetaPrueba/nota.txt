@@ -1,0 +1,8 @@
+SEGUNDA ESCRITURA
+Línea A escrita con BufferedWriter
+Línea B escrita con BufferedWriter
+---- Registro nuevo ----
+Autor: Pedro
+Fecha: 2025-11-08
+Mensaje: Estoy entendiendo los ficheros de texto en Java!
+
