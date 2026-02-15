@@ -1,0 +1,3 @@
+(Histórico inicial)
+Este fichero se usará para la práctica de append.
+Cada ejecución añadirá nuevas líneas.

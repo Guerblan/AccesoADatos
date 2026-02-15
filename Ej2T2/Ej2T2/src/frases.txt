@@ -1,0 +1,8 @@
+Inicio del log
+Todo correcto
+Se produjo un error al abrir el fichero
+Advertencia: conexión lenta
+error: usuario no válido
+Proceso finalizado sin errores
+Otra línea sin la palabra clave
+Reintento tras error de red

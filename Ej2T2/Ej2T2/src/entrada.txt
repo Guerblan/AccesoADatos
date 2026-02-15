@@ -1,0 +1,5 @@
+Java IO básico
+Lectura y escritura de ficheros
+Contar líneas y caracteres
+Sin usar NIO ni lambdas
+¡Vamos a practicar!

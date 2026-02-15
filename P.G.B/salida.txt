@@ -1,0 +1,14 @@
+Ruta del archivo: C:\Users\pedro\Desktop\P.G.B\alumnos.csv
+Nombre: alumnos.csv
+Existe?: true
+
+Total de alumnos: 123
+Nota promedio: 5.59349593495935
+Moda: 1 (veces: 15)
+% Aprobados: 60.97560975609756
+% Suspensos: 39.02439024390244
+
+Medias por especialidad
+Cienciasmedia: 6.67741935483871 (31alumnos)
+Letrasmedia: 5.170212765957447 (47alumnos)
+Artesmedia: 5.288888888888889 (45alumnos)

@@ -1,0 +1,7 @@
+com\tienda\app\PruebaInsertProducto.class
+com\tienda\util\ConexionBD.class
+com\tienda\dao\MovimientosDAO.class
+com\tienda\model\Movimiento.class
+com\tienda\dao\ProductoDAO.class
+com\tienda\app\TestConexion.class
+com\tienda\model\Producto.class

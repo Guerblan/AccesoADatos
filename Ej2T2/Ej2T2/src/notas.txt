@@ -1,0 +1,5 @@
+Ana: 8.5
+Luis: 7.0
+Marta: 9.2
+Diego: 6.8
+Sara: 8.9

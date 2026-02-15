@@ -1,0 +1,10 @@
+id;nombre;ciudad;saldo
+1;Ana Pérez;Mérida;1834.50
+2;Luis Gómez;Cáceres;120.00
+3;María-Luisa;Badajoz;999.95
+4;Raúl;Don Benito;10
+5;Lucía;Plasencia;2500.00
+6;Pedro Martín;Zafra;0
+# línea inválida a propósito (comentario)
+7;Línea_invalida_con_3_campos;SoloDos
+8;Óscar;Trujillo;315.75

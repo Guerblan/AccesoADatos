@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Agentes>
+  <agente id="1">
+    <alias>LOPEZ</alias>
+    <equipo>10</equipo>
+    <recompensa>2000,00</recompensa>
+  </agente>
+  <agente id="3">
+    <alias>SEVILLA</alias>
+    <equipo>30</equipo>
+    <recompensa>2200,00</recompensa>
+  </agente>
+  <agente id="4">
+    <alias>REY</alias>
+    <equipo>20</equipo>
+    <recompensa>2000,00</recompensa>
+  </agente>
+  <agente id="5">
+    <alias>REINA</alias>
+    <equipo>20</equipo>
+    <recompensa>1000,00</recompensa>
+  </agente>
+  <agente id="6">
+    <alias>DUBLIN</alias>
+    <equipo>10</equipo>
+    <recompensa>3000,00</recompensa>
+  </agente>
+  <agente id="7">
+    <alias>TOKIO</alias>
+    <equipo>10</equipo>
+    <recompensa>3000,00</recompensa>
+  </agente>
+  <agente id="8">
+    <alias>MADIRD</alias>
+    <equipo>10</equipo>
+    <recompensa>3000,00</recompensa>
+  </agente>
+  <agente id="9">
+    <alias>ROMA</alias>
+    <equipo>10</equipo>
+    <recompensa>3000,00</recompensa>
+  </agente>
+  <agente id="10">
+    <alias>LONDRES</alias>
+    <equipo>10</equipo>
+    <recompensa>3000,00</recompensa>
+  </agente>
+</Agentes>

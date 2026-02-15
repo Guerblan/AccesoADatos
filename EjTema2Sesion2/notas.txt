@@ -1,0 +1,6 @@
+
+Ana: 8.5
+Juan: 6
+Mercedes: 4
+Pedro: 10
+Maik: 1
